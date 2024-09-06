@@ -1,3 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcom%20to%20daun's%20github&fontSize=90)
 
-I'm currently learning about algorithm...
+![Daun's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
