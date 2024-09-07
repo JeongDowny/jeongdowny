@@ -2,4 +2,4 @@
 
 <h1>Stay foolish, Stay hungry.</h1>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daun5535)](https://solved.ac/daun5535/)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongdowny&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daun5535)](https://solved.ac/daun5535/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=default)](https://github.com/JeongDowny/jeongdowny)﻿
