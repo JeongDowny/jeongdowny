@@ -2,7 +2,7 @@
 * Hi, I'm daun Jeong. :wave:
 * My motto is 'Stay hungry, stay foolish'.
 
-## :tools: Tech & Tools
+## 🛠️ Tech & Tools
 ### Languages
 * C++
 * Python :snake:
