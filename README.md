@@ -1,5 +1,18 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20daun's%20github&fontSize=60)-->
+## About Me
+* Hi, I'm daun Jeong :wave:
+* My motto is 'Stay hungry, stay foolish'.
 
-# Stay foolish, Stay hungry.
+## 🛠️ Tech & Tools
+### Languages
+* C++
+* Python 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daun5535)](https://solved.ac/daun5535/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongdowny&langs_count=10&layout=compact&theme=default)](https://github.com/JeongDowny/jeongdowny)﻿
+### Frameworks 
+* TensorFlow
+* Flask
+
+## Projects
+* '인공집능': A project that involves obtaining data through web crawling and using multiple linear regression tecdhniques with features such as deposit, room size, and other factors to predict rental prices.
+
+## Extra fact about me
+* :runner:Outside of coding, I enjoy running and playing soccer, which makes me feel truly alive.  
