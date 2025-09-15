@@ -1,21 +1,17 @@
-## About Me
-* Hi, I'm daun Jeong. :wave:
-* My motto is 'One who wants to do something finds a way, while on who does not wants to do it finds an excuse'.
+### 실제적인 비즈니스 가치를 창출하고자 하는 개발자, 정다운입니다.
 
-## What i've used
-### Languages
-* C++
-* Python :snake:
-* Javascript
+****
 
-### Frameworks
-* Flask :globe_with_meridians:
-* Node.js
+## 서비스
 
-## Projects
-* '인공집능' :house_with_garden::A project that involves obtaining data through web crawling and using multiple linear regression techniques with features such as deposit, room size, and other factors to predict rental prices. 
- I was responsible for data crawling, preprocessing, model training, and the overall structure of the webpage to present the results. You can find the repository here: [GitHub Repository](https://github.com/EndlessCreation/EC-Advance-2021-Team4)
-* '명함소개팅' :cupid::An anonymous dating service for university-verified users that connects people through an AI-powered recommendation system. [Github Repository](https://github.com/digitalCard-date-service/work_space)
+- [SSUMPICK](https://github.com/TEAM-CLU/ssumpick) - 대학생 소개팅 웹 서비스
 
-## When i'm not coding
-* I enjoy running :runner:, playing soccer :soccer:
+## 프로젝트
+
+- [유럽 축구팀의 성적 예측과 전술적 특성 분석](https://github.com/JeongDowny/european-football-analysis)
+
+- [인공집능](https://github.com/EndlessCreation/EC-Advance-2021-Team4) - 원룸 월세 예측 모델
+
+## 그 외 관심사
+- 축구 :soccer:
+- 러닝 :running:
