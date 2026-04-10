@@ -87,10 +87,3 @@ Claude Code 세션 로그를 자동으로 수집 · 구조화하여 **문제 →
 </tr>
 </table>
 
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeongDowny&show_icons=true&theme=default&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true)
-
-</div>
